@@ -4,6 +4,7 @@ Allison is an atempt for creating a Artifical General Intelligence. Allison has 
 Allison's memory is a semantic graph with object at the nodes and the relationships between object as edge weight.
 
 The tasks or Function performed by Allison can be classified into two basic categories:
+
      1. Non ML related tasks such as opening a camera, hacking into systems, capturing a photo.
 
      2. ML related tasks, such as understanding the instructions necessary to perform Non ML related tasks, 
